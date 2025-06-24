@@ -12,7 +12,7 @@
   width: 100vw;
 }
 .intro {
-  background-image: url("/img/Shadows1.png");
+  background-image: url("./img/Shadows1.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -117,7 +117,7 @@
   }
 
   .intro {
-    background-image: url("/img/Shadows1.png");
+    background-image: url("./img/Shadows1.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
